@@ -11,13 +11,14 @@
   "dependencies": {
     "@hellomoon/api": "1.17.4",
     "@metaplex-foundation/js": "0.19.5",
-    "@solana/web3.js": "1.87.1",
+    "@solana/web3.js": "^1.95.3",
     "@thirdweb-dev/react": "3.14.35",
     "next": "13.5.4",
     "next-connect": "0.13.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-hot-toast": "2.4.0"
+    "react-hot-toast": "2.4.0",
+    "rpc-websockets": "^7.11.2"
   },
   "devDependencies": {
     "autoprefixer": "10.4.14",
